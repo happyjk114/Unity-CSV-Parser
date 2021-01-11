@@ -11,11 +11,15 @@ CSV 파싱기입니다.
 
 실제 사용 예
 
-ParseData<Gun>("prefabID","Assets/Data/Gun.csv", "Weapon");
+
 
 
 ![파싱1](https://user-images.githubusercontent.com/37136317/104232869-4a195800-5494-11eb-957a-4d9ee7f17ddb.png)
 
+![파싱3](https://user-images.githubusercontent.com/37136317/104234186-64eccc00-5496-11eb-8f92-95cc399bbc98.png)
 
+ParseData<Gun>("prefabID","Assets/Data/Gun.csv", "Weapon");
 
 ![파싱2](https://user-images.githubusercontent.com/37136317/104232875-4be31b80-5494-11eb-8ee3-6fbcaebf082f.png)
+
+
