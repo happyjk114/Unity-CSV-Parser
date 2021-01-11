@@ -23,8 +23,9 @@ CSV 파싱기입니다.
 
 ParseData<Gun>("prefabID","Assets/Data/Gun.csv", "Weapon");
 
-이렇게 
+이렇게 쓰면
 
 ![파싱2](https://user-images.githubusercontent.com/37136317/104232875-4be31b80-5494-11eb-8ee3-6fbcaebf082f.png)
 
+우왕
 
